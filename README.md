@@ -110,7 +110,7 @@
 <br/>
 <br/>
 
-## 2) 매출 상위 4개국가(S, F, Z, ETC) 첫 접속 당시 미디어별 매출 비교
+### 2) 매출 상위 4개국가(S, F, Z, ETC) 첫 접속 당시 미디어별 매출 비교
 
 ![image](https://user-images.githubusercontent.com/56102116/226160733-6cc9f459-66dc-4b2d-99f8-8e6924486c21.png)
 
